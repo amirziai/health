@@ -36,3 +36,29 @@ What is health? These can be conflicting
 -- Counter argument: doesn’t really matter
 - 
 
+### Mitochondria
+- Bacteria that take oxygen and produce adenosine triphosphate (ATP)
+- All comes from your mother
+- Average human cell has 1-2 thousand mitochondria
+- Brain, retina, and heart have 10,000
+- In total we have 1 quadrillion
+- Entire respiratory system (heart, lung, blood) exists to deliver oxygen to mitochondria
+- ATP has been known for 100 years
+- ATP is broken into ADP + P
+- ADP is recycled by reattaching P and making ATP again
+- There are 1B ATP molecules of ATP in the average cell, recycled 3 times per minute
+- Liver mitochondria has an enzyme needed to detox ammonia, waste product of protein breakdown
+- From age 30-70 the average mitochondrion decreases in efficiency by about 50%
+- Avoid Early Onset Mitochondrial Dysfunction (EOMD), this is not an actual term, http://www.bcmj.org/articles/mitochondrial-disease-clinical-manifestations-overview
+- EOMD reversible, mitochondrial decay is not
+
+#### Inefficient coupling
+- Krebs cycle
+- Sugar (or protein) -> glucose or fat into ketone body (water-soluble molecule that liver produces from fatty acids) called beta-hydroxybutyrate (BHB)
+- Glucose and BHB can provide carbon and electrons which are needed for energy creation
+- These form a molecule called Acetyl Coenzyme A (CoA) that kicks off Krebs
+- 
+
+
+
+
