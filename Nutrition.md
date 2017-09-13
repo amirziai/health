@@ -83,5 +83,25 @@ What is health? These can be conflicting
 - 
 
 
+- http://sugarscience.ucsf.edu/latest-sugarscience-research.html#.WbjMwtOGPOQ
+- http://sugarscience.ucsf.edu/too-much-can-make-us-sick/#.WbjM79OGPOQ
+- https://www.ncbi.nlm.nih.gov/pubmed/21458985
+- http://time.com/4606331/sugar-daily-limit/
+- http://time.com/4553110/soda-industry-sugar-obesity-diabetes/
+- http://time.com/3738706/the-sugar-industry-shaped-government-advice-on-cavities-report-finds/
+- http://www.wsro.org/
+- http://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat
+- http://www.npr.org/sections/thesalt/2016/09/14/493957290/not-just-sugar-food-industry-s-influence-on-health-research
+- https://blogs.scientificamerican.com/brainwaves/is-sugar-really-toxic-sifting-through-the-evidence/
+- https://www.hsph.harvard.edu/nutritionsource/transfats/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3955571/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3955571/
+- https://healthyforgood.heart.org/Eat-smart/Articles/Trans-Fat
+- https://www.scientificamerican.com/article/scientific-case-for-banning-trans-fats/
+- http://www.bmj.com/content/351/bmj.h3978
+- https://sciencelife.uchospitals.edu/2017/04/14/research-suggests-bans-on-trans-fats-linked-to-healthier-communities/
 
+TODO:
+- Explain random effects models
+- 
 
