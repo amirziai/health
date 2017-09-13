@@ -20,6 +20,8 @@ Here are a few of the chemicals produced by Chaga that are also biologically act
 
 https://www.mskcc.org/cancer-care/integrative-medicine/herbs/chaga-mushroom
 
+https://chagahq.com/chaga-mushroom-cancer/
+
 Multiple laboratory and animal studies have demonstrated the ability of these biologically active Chaga chemicals to exert a beneficial effect on mammalian physiology.
 
 - kill cancer cells (Glamočlija, 2015; Ning, 2014; Lee 2009; Kang, 2015)

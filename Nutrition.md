@@ -59,6 +59,18 @@ What is health? These can be conflicting
 - Spurious correlation
 - Rigorous methodology
 
+Hierarchy of evidence
+- multicenter, randomized control clinical trials
+- longitudinal prospective cohort studies
+- case/control studies
+- case studies
+- anecdotal studies
+
+Add more from:
+- http://www.ideafit.com/fitness-library/current-issues-in-nutrition-research
+- https://mobile.nytimes.com/2015/10/27/upshot/surprising-honey-study-shows-woes-of-nutrition-research.html
+- 
+
 ### Mitochondria
 - Bacteria that take oxygen and produce adenosine triphosphate (ATP)
 - All comes from your mother
@@ -100,6 +112,9 @@ What is health? These can be conflicting
 - https://www.scientificamerican.com/article/scientific-case-for-banning-trans-fats/
 - http://www.bmj.com/content/351/bmj.h3978
 - https://sciencelife.uchospitals.edu/2017/04/14/research-suggests-bans-on-trans-fats-linked-to-healthier-communities/
+- http://www.ideafit.com/fitness-library/current-issues-in-nutrition-research
+- https://mobile.nytimes.com/2015/10/27/upshot/surprising-honey-study-shows-woes-of-nutrition-research.html
+
 
 TODO:
 - Explain random effects models
