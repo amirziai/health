@@ -1,5 +1,35 @@
 # Nutrition
 
+
+### 1- We need to eat something
+
+### 2- Some foods are better than others
+- A diet of only trans fat will kill you, how long, what mechanism? what evidence?
+- Sugar (what's the evidnce? how bad is it really?)
+- ...
+
+### 3- How much of a difference? Is it attributable to diet/lifestyle?
+- Following a normal conventional diet (e.g. AHA, pyramid) with medium quality foods vs. best possible diet and ingredients, how different? 1%? 10%? 100%? 1,000%?
+	- What are we measuring? what metrics?
+	- Do these metrics move in tandem? or are we making trade-offs?
+	- Can we define health on a multi-dimensional scale? Does such a metric exist?
+		- Heart rate (HR ~ mortality)
+		- Weight
+		- BMI
+		- Body fat
+		- HDL/LDL
+		- ...
+- How does this "health score" correlate with overall well-being defined by:
+	- Feeling good
+	- Cognitive performance
+	- Energy level
+	- ...
+
+A counter-argument is that this is mostly genetic and cannot be controlled (need evidence here). This would establish the possibility of "significantly" improving your overall well-being, presumably a positive outcome.
+
+### 4- Out best understanding, subject to continuous change
+It is complex and like any other area of inquiry subject to modification, prone to biases, blah blah...
+
 ### Is there one diet?
 http://fivethirtyeight.com/features/you-cant-trust-what-you-read-about-nutrition/
 
@@ -28,13 +58,6 @@ What is health? These can be conflicting
 - Genetics, epigenetics
 - Spurious correlation
 - Rigorous methodology
-
-### Claim
-- You have to eat something
-- Nutrition plays a major role (define major) in performance (cognitive, energy, health, bone density, heart rate)
--- Define a number of metrics to compare
--- Counter argument: doesn’t really matter
-- 
 
 ### Mitochondria
 - Bacteria that take oxygen and produce adenosine triphosphate (ATP)
